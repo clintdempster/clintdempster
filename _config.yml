@@ -16,9 +16,9 @@ highlighter: pygments
 
 ### content configuration ###
 title:       "Clint Dempster"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+keywords:    "Clint, Dempster, finance, banking, securitisation, workout, insolvency, commercial, law"
+description: "Clint Dempster"
+source_link: ""
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-71257561-1 ## put YOUR key here to enable tracking! (blank to disable)
@@ -33,6 +33,8 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
+  beige:     '#f5f4f0'
+  red:       '#d01712'
 
 kramdown:
   auto_ids:  false
